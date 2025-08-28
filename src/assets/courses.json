@@ -1,0 +1,158 @@
+[
+  {
+    "title": "Data Science & Analytics",
+    "description": "Master data analysis, machine learning, and AI to extract meaningful insights from complex datasets. Learn Python, SQL, and advanced analytics tools.",
+    "duration": "16 weeks",
+    "students": 150,
+    "level": "Intermediate",
+    "skills": ["Python", "SQL", "Machine Learning", "Pandas", "Matplotlib", "Tableau"],
+    "featured": false,
+    "details": {
+      "title": "Comprehensive Data Science & Analytics",
+      "shortDescription": "Go from data novice to data master. This course covers everything from statistical analysis to advanced machine learning models, equipping you with the skills for impactful data interpretation and prediction.",
+      "curriculum": [
+        "Introduction to Data Science",
+        "Python for Data Analysis",
+        "Statistical Fundamentals",
+        "Data Cleaning and Preprocessing",
+        "Exploratory Data Analysis",
+        "Machine Learning Algorithms",
+        "Deep Learning Basics",
+        "Data Visualization with Matplotlib & Seaborn",
+        "SQL for Data Scientists",
+        "Big Data Concepts",
+        "Capstone Project"
+      ]
+    }
+  },
+  {
+    "title": "Cloud Engineering (AWS)",
+    "description": "Build scalable cloud infrastructure and become an AWS certified professional. Learn to design, deploy, and manage cloud solutions.",
+    "duration": "12 weeks",
+    "students": 200,
+    "level": "Advanced",
+    "skills": ["AWS", "Docker", "Kubernetes", "Terraform", "CI/CD", "Linux"],
+    "featured": true,
+    "details": {
+      "title": "AWS Cloud Engineering Masterclass",
+      "shortDescription": "Become an expert in Amazon Web Services. This intensive program focuses on designing, deploying, and managing scalable, highly available, and fault-tolerant systems on the AWS platform.",
+      "curriculum": [
+        "AWS Fundamentals",
+        "EC2, S3, RDS",
+        "Networking in AWS (VPC)",
+        "IAM and Security",
+        "Containerization with Docker & ECS",
+        "Serverless Architectures (Lambda)",
+        "CI/CD on AWS",
+        "Infrastructure as Code (Terraform)",
+        "Monitoring and Logging",
+        "AWS Certifications Prep",
+        "Real-world AWS Project"
+      ]
+    }
+  },
+  {
+    "title": "DevOps Engineering",
+    "description": "Bridge development and operations with modern DevOps practices. Automate deployments and manage scalable infrastructure.",
+    "duration": "14 weeks",
+    "students": 120,
+    "level": "Advanced",
+    "skills": ["Jenkins", "Docker", "Ansible", "Git", "Monitoring", "Scripting"],
+    "featured": true,
+    "details": {
+      "title": "Advanced DevOps Engineering Program",
+      "shortDescription": "Automate your way to efficiency. Learn to integrate development and operations, mastering tools and practices for continuous integration, delivery, and deployment of software.",
+      "curriculum": [
+        "Introduction to DevOps",
+        "Version Control with Git",
+        "CI/CD Pipelines (Jenkins, GitLab CI)",
+        "Container Orchestration (Kubernetes)",
+        "Configuration Management (Ansible)",
+        "Monitoring & Alerting (Prometheus, Grafana)",
+        "Cloud Providers for DevOps (AWS/Azure/GCP)",
+        "Scripting (Bash, Python)",
+        "DevOps Security (DevSecOps)",
+        "Incident Management",
+        "Automated Testing"
+      ]
+    }
+  },
+  {
+    "title": "Full-Stack Web Development",
+    "description": "Build modern web applications from scratch. Learn frontend and backend development with the latest technologies and frameworks.",
+    "duration": "20 weeks",
+    "students": 300,
+    "level": "Beginner",
+    "skills": ["React", "Node.js", "MongoDB", "Express", "HTML/CSS", "JavaScript"],
+    "featured": true,
+    "details": {
+      "title": "Full-Stack Web Development Immersion",
+      "shortDescription": "Build dynamic, responsive, and robust web applications. This course covers both front-end and back-end technologies, enabling you to create complete web solutions from database to user interface.",
+      "curriculum": [
+        "HTML, CSS, JavaScript Fundamentals",
+        "Frontend Frameworks (React)",
+        "State Management (Redux)",
+        "Backend with Node.js & Express",
+        "Database Management (MongoDB)",
+        "RESTful APIs",
+        "Authentication & Authorization",
+        "Deployment Strategies",
+        "Web Security Best Practices",
+        "Portfolio Project Development"
+      ]
+    }
+  },
+  {
+    "title": "Data Analysis with R",
+    "description": "Learn to perform robust statistical analysis, data visualization, and reporting using R, the leading language for statistical computing.",
+    "duration": "10 weeks",
+    "students": 80,
+    "level": "Beginner",
+    "skills": ["R", "RStudio", "Statistical Modeling", "Data Visualization", "dplyr", "ggplot2"],
+    "featured": true,
+    "details": {
+      "title": "Introduction to Data Analysis with R",
+      "shortDescription": "Unlock the power of data with R. This course provides a solid foundation in R programming for data manipulation, statistical analysis, and creating compelling visualizations.",
+      "curriculum": [
+        "Introduction to R and RStudio",
+        "R Programming Basics",
+        "Data Structures in R",
+        "Data Import and Export",
+        "Data Manipulation with dplyr",
+        "Data Visualization with ggplot2",
+        "Descriptive Statistics",
+        "Inferential Statistics",
+        "Linear Regression",
+        "Report Generation with R Markdown",
+        "Case Studies and Projects"
+      ]
+    }
+  },
+  {
+    "title": "C Programming Fundamentals",
+    "description": "Master the foundational concepts of C programming, essential for systems programming, embedded systems, and understanding how software interacts with hardware.",
+    "duration": "12 weeks",
+    "students": 100,
+    "level": "Beginner",
+    "skills": ["C", "Pointers", "Memory Management", "Data Structures", "Algorithms", "Debugging"],
+    "featured": false,
+    "details": {
+      "title": "Comprehensive C Programming Fundamentals",
+      "shortDescription": "Dive into the core of computer science with C programming. This course covers essential concepts from variables and data types to pointers, memory management, and basic algorithms.",
+      "curriculum": [
+        "Introduction to C Language",
+        "Variables, Data Types, and Operators",
+        "Control Flow (If/Else, Loops)",
+        "Functions and Modular Programming",
+        "Arrays and Strings",
+        "Pointers and Memory Management",
+        "Structures and Unions",
+        "File I/O",
+        "Introduction to Data Structures",
+        "Basic Algorithms",
+        "Debugging Techniques",
+        "Mini-Projects"
+      ]
+    }
+  }
+]

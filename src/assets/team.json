@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Dr. Ayendoh Terrence Sama",
+    "role": "Data Analyst",
+    "background": "Specializing in data visualization and statistical analysis using R.",
+    "description": "Passionate about uncovering insights from complex datasets and translating them into actionable strategies.",
+    "credentials": ["Cert. Data Analyst", "B.Sc. Mathematics and Statistics", "M.Sc. Mathematics", "Ph.D. Computational Statistics"]
+  },
+  {
+    "name": "Arrey Simon",
+    "role": "Cloud & DevOps Engineer",
+    "background": "Expert in AWS, Azure, and CI/CD pipelines.",
+    "description": "Dedicated to building scalable and reliable infrastructure, automating deployments, and optimizing cloud resources.",
+    "credentials": ["AWS Certified", "Azure DevOps Engineer", "Docker", "Kubernetes"]
+  },
+  {
+    "name": "Teboh Leslie",
+    "role": "Data Scientist",
+    "background": "Proficient in machine learning, predictive modeling, and AI.",
+    "description": "Uses cutting-edge algorithms to solve real-world problems and drive data-driven innovation.",
+    "credentials": ["M.Sc. Data Science", "TensorFlow", "PyTorch"]
+  },
+  {
+    "name": "Ewung Joseph",
+    "role": "MS Office Suite Technician",
+    "background": "Specializing in Microsoft Office applications and productivity tools.",
+    "description": "Provides expert support and training for Microsoft Office Suite, Word, Excel, and PowerPoint.",
+    "credentials": ["Microsoft Office Specialist (MOS)", "Cert. Productivity Tools"]
+  },
+  {
+    "name": "Nchinda Roland",
+    "role": "Web Developer",
+    "background": "Skilled in full-stack development with a focus on modern web technologies.",
+    "description": "Crafts engaging and responsive web applications, bringing ideas to life with clean code and intuitive user interfaces.",
+    "credentials": ["B.Sc. Computer Science", "React", "Node.js", "TypeScript"]
+  },
+  {
+    "name": "Achu Cynthia",
+    "role": "Graphics Designer",
+    "background": "Creative professional with expertise in visual communication and branding.",
+    "description": "Designs stunning visuals and compelling brand identities, transforming concepts into captivating artistic expressions.",
+    "credentials": ["Adobe Creative Suite", "UI/UX Design"]
+  }
+]
