@@ -1,10 +1,10 @@
 # Dependencies
-/node_modules
-/dist
-/build
+node_modules
+dist
+build
 
 # Temp
-/temp
+temp
 
 # Logs
 logs
@@ -15,16 +15,17 @@ yarn-error.log*
 lerna-debug.log*
 
 # Vite
-.vite/
-.next/
-.nuxt/
-.svelte-kit/
-.vercel/
+.vite
+.next
+.nuxt
+.svelte-kit
+.vercel
 .output
 
 # IDEs and editors
-.idea/
-.vscode/
+.idea
+.vscode
+.cursor
 *.suo
 *.ntvs*
 *.njsproj
